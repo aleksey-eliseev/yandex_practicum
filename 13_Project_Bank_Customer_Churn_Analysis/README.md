@@ -1,4 +1,6 @@
 # Анализ оттока клиентов банка
+🔗 [**Открыть основной проект в nbviewer**](https://nbviewer.org/github/aleksey-eliseev/yandex_practicum/blob/main/13_Project_Bank_Customer_Churn_Analysis/13_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.ipynb)
+🔗 [**Открыть SQL проект в nbviewer**](https://nbviewer.org/github/aleksey-eliseev/yandex_practicum/blob/main/13_Project_Bank_Customer_Churn_Analysis/13_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82__%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%BA%D0%BD%D0%B8%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0_SQL.ipynb)
 
 ## Цель проекта: 
 Выявить однородные сегменты клиентов банка «Метанпром», склонных к оттоку, и разработать рекомендации для их удержания с целью снижения уровня оттока и минимизации рисков для банка.
