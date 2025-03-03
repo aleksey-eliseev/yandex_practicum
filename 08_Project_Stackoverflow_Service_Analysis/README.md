@@ -1,5 +1,5 @@
 # Анализ сервиса StackOverflow
-🔗 [Открыть проект](https://www.notion.so/StackOverflow-128f58b9822880878498ff9f13c47526)
+🔗 [**Открыть проект в Notion**](https://www.notion.so/StackOverflow-128f58b9822880878498ff9f13c47526)
 
 ## Цель проекта: 
 - Расчёт ключевых метрик сервиса с использованием SQL.
