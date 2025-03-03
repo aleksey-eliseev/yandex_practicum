@@ -1,4 +1,5 @@
 # Исследование сервиса аренды самокатов GoFast
+🔗 [**Открыть проект в nbviewer**](https://nbviewer.org/github/aleksey-eliseev/yandex_practicum/blob/main/04_Project_Scooter_Rental_GoFast/04_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0_%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D1%8B_%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BE%D0%B2_GoFast.ipynb)
 
 ## Цель проекта: 
 Провести анализ данных сервиса GoFast, проверить гипотезы и разработать рекомендации для роста бизнеса.
