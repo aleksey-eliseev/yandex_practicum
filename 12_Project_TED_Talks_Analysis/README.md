@@ -1,5 +1,5 @@
 # Исследование выступлений TED
-🔗[Ссылка на проект](https://public.tableau.com/app/profile/aleksey.eliseev/viz/TED_17347009674490/TED)
+🔗 [Ссылка на проект в Tableau](https://public.tableau.com/app/profile/aleksey.eliseev/viz/TED_17347009674490/TED)
 
 ## Цель проекта: 
 Исследовать историю TED-конференций и создать дашборд в Tableau на основе полученных данных.
